@@ -1,3 +1,5 @@
+// IT-S Universe — No Auth — Public Access Only
+// No login, no sign in, no sign up. All visitors are welcome.
 import { useState } from 'react'
 interface AuthUser { id: string; email: string; name: string; avatar: string }
 export function useAuth() {
