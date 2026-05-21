@@ -1,3 +1,4 @@
+// IT-S Universe — Open Access
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import Home from './pages/Home'
 import New from './pages/New'
